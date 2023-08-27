@@ -1,0 +1,5 @@
+git config --global user.name "Zoyee131419"
+git config --global user.email "3648632910@qq.com"
+git add Git_Using.txt
+git remote add origin https://github.com/Zoyee131419/AI-CODEC.git
+git push origin master
